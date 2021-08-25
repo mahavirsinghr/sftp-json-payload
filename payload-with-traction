@@ -1,5 +1,7 @@
 Solution Architect Rest-Endpoint
 
+
+
 Rough Verbal Idea was given by the customer for their upcoming Product Requirement
 1.	Expose a rest endpoint with the post method
 1.	It accepts only JSON payload
@@ -36,7 +38,9 @@ Key observations:
 
 Architecture Diagram:
  
+ 
 https://lucid.app/lucidchart/invitations/accept/inv_230eecd0-e80c-4465-970b-d4e33dd71d89?viewport_loc=-218%2C16%2C2492%2C1320%2C0_0
+
 Environment Variable: UUID
 I programmatically update an environment variable before invoking the function.
  
