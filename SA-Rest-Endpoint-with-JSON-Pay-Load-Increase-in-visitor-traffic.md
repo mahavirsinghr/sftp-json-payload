@@ -80,9 +80,8 @@ Requirement**
     even more dramatic.**
 
 **Architecture Diagram:**
+![image](https://user-images.githubusercontent.com/13980382/130731393-ae8f15cd-51a9-4dd8-b964-d9c3a5e116a6.png)
 
-![](media/image1.png){width="7.04965113735783in"
-height="4.804166666666666in"}
 
 <https://lucid.app/lucidchart/invitations/accept/inv_230eecd0-e80c-4465-970b-d4e33dd71d89?viewport_loc=-218%2C16%2C2492%2C1320%2C0_0>
 
